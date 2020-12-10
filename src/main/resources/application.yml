@@ -1,0 +1,3 @@
+spring.application.name: location-api
+
+server.servlet.conext-path: /${spring.application.name}
