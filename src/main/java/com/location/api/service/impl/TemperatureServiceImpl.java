@@ -15,7 +15,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * Service to obtain temperature information about a location
+ * Service to obtain temperature of a location
  *
  * @author  Vianny Molero
  * @since   2020-06-07
